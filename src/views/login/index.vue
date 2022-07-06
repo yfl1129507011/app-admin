@@ -182,7 +182,7 @@ $light_gray:#eee;
   width: 100%;
   // background-color: $bg;
   overflow: hidden;
-  background: url(~@/assets/summer.jpg);
+  background: url(~@/assets/autumn.jpg);
   background-size: 100% 100%;
 
   .login-form {
